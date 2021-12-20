@@ -1,3 +1,3 @@
 # Origins - AdditionalAdditions Addon
 
-A simple addon to add AdditionalAdditions support to Origins!
+A simple mod to add AdditionalAdditions support to Origins!
